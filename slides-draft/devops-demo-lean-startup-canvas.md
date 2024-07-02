@@ -292,7 +292,7 @@ List how these problems are solved today
 
 Work where they are doing DevOps well
 
-Work for a DevOps consultancy 
+Work for a DevOps consultancy
 
 Note: You are lucky if you work at a place doing DevOps well... or getting to work with an experienced DevOps consultant. Trying it out on your own project is hard.
 
