@@ -52,7 +52,7 @@ Based on research on what drives performance in software delivery, explains the 
 
 ### Team Topologies [🔗](https://www.amazon.com.au/Team-Topologies-Organizing-Business-Technology/dp/1942788819)
 
-How to effectively setup software delivery teams (the organisational design) including explaining why Platform Engineering teams are valuable in realizing DevOps across teams.
+How to effectively setup software delivery teams (the organisational design) including explaining why Platform Engineering teams are valuable in realizing DevOps across teams. [🔗 Website](https://teamtopologies.com/)
 <!-- .element: style="float: left; width: 50%; height: 20vh;" -->
 
 ![Team Topologies](https://m.media-amazon.com/images/I/71rps7F0FuL._SL1500_.jpg)
