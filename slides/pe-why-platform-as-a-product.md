@@ -91,7 +91,7 @@ title: Why Platform-as-a-Product
 * So they are able to better deliver value in their teams
 * Plus improving the daily work experience of Engineers
 
-------
+---
 
 ## What is the Product?
 
@@ -131,11 +131,48 @@ Driven by what provides most value for the community in Engineers
 
 ---
 
-## Actions
+## Discussion
 
 ------
 
-### Focus on common problems
+### Common Problems
 
-> "Platform teams prevent other teams within from reinventing the wheel by tackling shared problems over and over. It’s key to figure out what these common issues are: start by understanding developer pain points and friction areas that cause slowdowns in development."
+> "Platform teams assist other teams from reinventing the wheel by tackling shared problems over and over. It’s key to figure out what these common issues are: start by understanding developer pain points and friction areas that cause slowdowns in development."
 > [🔗 PlatformEngineering.Org](https://platformengineering.org/blog/what-is-platform-engineering)
+
+What common problems do we share?
+
+------
+
+### Collective Effort
+
+* How do you help other teams with engineering challenges?
+* Where are there opportunities to work together?
+* How could you leverage "as-a-Product" approach?
+* What topics / areas should we explore further?
+* What discussions should we be having?
+
+------
+
+### Engineering Community
+
+Currently: Showcases, Brown Bags, Documentation, Chat Channels
+
+What else?
+
+------
+
+### Joint Technical Retro?
+
+* Do a retrospective together
+* Focused on technical aspects
+* What are your teams pain points?
+* What are the improvement opportunities?
+
+------
+
+### Contribute?
+
+Have you defined "paved paths" that other teams would find helpful?
+
+How can we include these in the Internal Developers Platform?
