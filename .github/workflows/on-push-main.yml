@@ -22,7 +22,6 @@ jobs:
     with: 
       feature: ${{ github.event.head_commit.message }}
       target-ref: ${{ github.sha }}
-      solution: ${{ vars.SOLUTION }}
       soln-group: ${{ vars.SOLN_GROUP }}
       output-dir: ${{ vars.OUTPUT_DIR }}
       site-url: ${{ vars.SITE_URL }}

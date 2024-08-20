@@ -431,7 +431,7 @@ TBC
 
 ### Six Simple Rules [🔗](https://www.amazon.com.au/Six-Simple-Rules-Complexity-Complicated-ebook/dp/B00IHGQVT8)
 
-TBC
+Watch the [TED Talk 🔗](https://www.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify).
 <!-- .element: style="float: left; width: 50%; height: 20vh;" -->
 
 ![Six Simple Rules - How to manage complexity without getting complicated](https://m.media-amazon.com/images/I/41ZpR9QJBCL.jpg)
